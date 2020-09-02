@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">To-Do</string>
+    <string name="label_input_text">Введите текст задачи:</string>
 </resources>

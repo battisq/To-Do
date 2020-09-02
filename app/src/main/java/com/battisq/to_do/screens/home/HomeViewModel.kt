@@ -1,7 +1,0 @@
-package com.battisq.to_do.screens.home
-
-import androidx.lifecycle.ViewModel
-
-class HomeViewModel : ViewModel() {
-    // TODO: Implement the ViewModel
-}
